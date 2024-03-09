@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:nymble_music/LoginPage.dart';
+import 'package:nymble_music/pages/LoginPage.dart';
 import 'package:firebase_core/firebase_core.dart';
 
 Future<void> main() async {

@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:nymble_music/DetailsPage.dart';
+import 'package:nymble_music/pages/DetailsPage.dart';
 import 'package:nymble_music/album_api_service.dart';
-import 'package:nymble_music/album_bloc.dart';
-import 'package:nymble_music/album_event.dart';
-import 'package:nymble_music/album_state.dart';
+import 'package:nymble_music/bloc/album_bloc.dart';
+import 'package:nymble_music/events/album_event.dart';
+import 'package:nymble_music/States/album_state.dart';
 
 class HomePage extends StatelessWidget {
   @override

@@ -1,4 +1,4 @@
-import 'package:nymble_music/album.dart';
+import 'package:nymble_music/models/album.dart';
 
 abstract class EpisodeState {}
 

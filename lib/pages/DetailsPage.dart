@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:audioplayers/audioplayers.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'album.dart'; // Your PodcastEpisode model path
+import '../models/album.dart'; // Your PodcastEpisode model path
 import 'package:firebase_auth/firebase_auth.dart';
 
 class DetailsPage extends StatefulWidget {

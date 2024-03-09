@@ -1,6 +1,6 @@
 import 'dart:convert';
 import 'package:http/http.dart' as http;
-import 'package:nymble_music/album.dart';
+import 'package:nymble_music/models/album.dart';
 
 class EpisodeApiService {
   Future<List<PodcastEpisode>> fetchEpisodes() async {

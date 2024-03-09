@@ -1,7 +1,7 @@
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:nymble_music/LoginEvet.dart';
-import 'package:nymble_music/LoginState.dart';
+import 'package:nymble_music/events/LoginEvet.dart';
+import 'package:nymble_music/States/LoginState.dart';
 
 class LoginBloc extends Bloc<LoginEvent, LoginState> {
   final FirebaseAuth _firebaseAuth;

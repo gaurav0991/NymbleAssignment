@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:nymble_music/HomePage.dart';
-import 'package:nymble_music/LoginEvet.dart';
-import 'package:nymble_music/LoginState.dart';
-import 'login_bloc.dart';
+import 'package:nymble_music/pages/HomePage.dart';
+import 'package:nymble_music/events/LoginEvet.dart';
+import 'package:nymble_music/States/LoginState.dart';
+import '../bloc/login_bloc.dart';
 
 class LoginPage extends StatefulWidget {
   @override

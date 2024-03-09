@@ -1,8 +1,8 @@
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:nymble_music/album.dart';
+import 'package:nymble_music/models/album.dart';
 import 'package:nymble_music/album_api_service.dart';
-import 'package:nymble_music/album_event.dart';
-import 'package:nymble_music/album_state.dart';
+import 'package:nymble_music/events/album_event.dart';
+import 'package:nymble_music/States/album_state.dart';
 
 class EpisodeBloc extends Bloc<EpisodeEvent, EpisodeState> {
   final EpisodeApiService episodeApiService;
