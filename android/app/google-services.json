@@ -1,0 +1,106 @@
+{
+    "project_info": {
+      "project_number": "931137628070",
+      "firebase_url": "https://fir-applogin-115f7.firebaseio.com",
+      "project_id": "fir-applogin-115f7",
+      "storage_bucket": "fir-applogin-115f7.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:931137628070:android:447a683be61eacbc1a5167",
+          "android_client_info": {
+            "package_name": "com.andriod.app"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "931137628070-0bivq2j35mpctnc2bick2eoer1chvbb2.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyDuaAhe0TR27vtDQKfjeTXb3v_Xn8Gj3M0"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "931137628070-0bivq2j35mpctnc2bick2eoer1chvbb2.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      },
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:931137628070:android:8fac7a9029adb83a1a5167",
+          "android_client_info": {
+            "package_name": "com.example.myapplication.firebaseapplogin"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "931137628070-55e83hvif8ljtrutrcrfacte3302nb0q.apps.googleusercontent.com",
+            "client_type": 1,
+            "android_info": {
+              "package_name": "com.example.myapplication.firebaseapplogin",
+              "certificate_hash": "6b38932e69944046f7af8d028eb96bbb7794e826"
+            }
+          },
+          {
+            "client_id": "931137628070-0bivq2j35mpctnc2bick2eoer1chvbb2.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyDuaAhe0TR27vtDQKfjeTXb3v_Xn8Gj3M0"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "931137628070-0bivq2j35mpctnc2bick2eoer1chvbb2.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      },
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:931137628070:android:45a215736b46987b1a5167",
+          "android_client_info": {
+            "package_name": "com.example.nymble_music"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "931137628070-0bivq2j35mpctnc2bick2eoer1chvbb2.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyDuaAhe0TR27vtDQKfjeTXb3v_Xn8Gj3M0"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "931137628070-0bivq2j35mpctnc2bick2eoer1chvbb2.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
